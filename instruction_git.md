@@ -92,4 +92,4 @@
 
 Для слияния веток необходимо воспользоваться командой:
 
-    git branch merge <branch_name>
+    git merge <branch_name>
