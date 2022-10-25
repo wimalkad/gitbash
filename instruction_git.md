@@ -86,3 +86,4 @@
     git branch -d <branch_name>
 
     -d - сокращение от delete
+    <branch_name> - имя ветки
